@@ -1,0 +1,15 @@
+In order to run the app you need to open 2 git windows and go to the hunters-web-app/api & hunters-web-app/client.
+
+After that type "yarn start" on both of them and press enter.
+
+A browser window should open(it may take a while to load)
+
+You can log in by using (john@gmail.com/123456) or register a new user
+
+All the user's information is saved on a cloud database(MongoDB)
+
+You can log off by clicking the top left "HunterSocial" button
+
+In case the site stops working you can restart node.js by going to the api git window and typing "rs" this will restart the server
+
+You can stop both git windows from running by pressing ctrl+C
